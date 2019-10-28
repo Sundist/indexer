@@ -3,7 +3,7 @@
 import ipaddress
 import socket
 
-path = ''
+path = ''  #path = 'this is your txt or csv file's path'
 
 firstint = 16843009 #ip->1.1.1.1
 lastint = 4294967295 #ip->255.255.255.255
